@@ -4,6 +4,7 @@
         <documentkey>8f6c99f62f9a9110a72c5aab2799b655</documentkey>
         <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_plants_db_my_plants">
     <x_snc_plants_db_my_plants action="INSERT_OR_UPDATE">
+        <container_type/>
         <fertilize_schedule/>
         <last_fertilized>2022-05-01</last_fertilized>
         <last_watered>2022-10-05</last_watered>
@@ -12,6 +13,7 @@
         <next_fertilize/>
         <next_watering/>
         <nickname/>
+        <owner_s_email/>
         <picture>dc2d15f62f9a9110a72c5aab2799b66b</picture>
         <placement/>
         <plant_type/>
@@ -96,14 +98,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-06 08:06:48</sys_created_on>
         <sys_id>786d9db62f9a9110a72c5aab2799b697</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Zamioculcas</sys_name>
         <sys_package display_value="My Plants" source="x_snc_plants_db">a474e7718792d510ab680f65dabb3508</sys_package>
         <sys_policy/>
         <sys_scope display_value="My Plants">a474e7718792d510ab680f65dabb3508</sys_scope>
         <sys_update_name>sys_metadata_link_786d9db62f9a9110a72c5aab2799b697</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-13 21:25:01</sys_updated_on>
+        <sys_updated_on>2024-10-23 12:20:06</sys_updated_on>
         <tablename>x_snc_plants_db_my_plants</tablename>
     </sys_metadata_link>
 </record_update>
